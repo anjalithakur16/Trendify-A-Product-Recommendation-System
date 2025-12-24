@@ -28,7 +28,7 @@ Machine Learning (Content-based filtering / rating-based logic)
 
 Streamlit for User Interface.
 
-**5. Feature Highlights**
+**4. Feature Highlights**
 
 **A. Business Problem**
 
@@ -57,6 +57,7 @@ Trend patterns based on ratings
 Support marketing, sales, and inventory decisions
 
 **C. Key Visuals & Why They Are Used**
+
 Visual	
 Bar Chart	Compare top fashion categories and products
 Top-N Product Cards	Quickly identify trending items
